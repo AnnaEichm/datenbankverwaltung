@@ -284,7 +284,7 @@ public class AppFenster{
         panel.add(scrollPane);
 
 
-	    fenster.add(panel);
+//	    fenster.add(panel);
 //        fenster.pack();
 		fenster.setVisible(true);	
 	}
